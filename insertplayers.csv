@@ -1,0 +1,57 @@
+"playerID","nickname","PlayerFN","PlayerLN","position","residency","teamID"
+1,"Zeus","Woo-je","Choi","Top","Korea",1
+2,"Oner","Hyeon-joon","Moon","Jungle","Korea",1
+3,"Faker","Sang-hyeok","Lee","Mid","Korea",1
+4,"Gumayusi","Min-hyeong","Lee","Bot","Korea",1
+5,"Keria","Min-seok","Ryu","Support","Korea",1
+6,"Bin","Ze-Bin","Chen","Top","China",2
+7,"Wei","Yang-Wei","Yan","Jungle","China",2
+8,"Xiaohu","Yuan-Hao","Li","Mid","China",2
+9,"GALA","Wei","Chen","Bot","China",2
+10,"Ming","Sen-Ming","Shi","Support","China",2
+11,"BrokenBlade","Sergen","Celik","Top","Turkey",3
+12,"Jankos","Marcin","Jankowski","Jungle","Europe",3
+13,"caPs","Rasmus","Borregaard Winther","Mid","Europe",3
+14,"Flakked","Victor","Lirola Tortosa","Bot","Europe",3
+15,"Targamas","Raphael","Crabbe","Support","Europe",3
+16,"Impact","Eon-young","Jeong","Top","North America",4
+17,"Inspired","Kacper","Sloma","Jungle","Europe",4
+18,"jojopyun","Joseph","Pyun","Mid","North America",4
+19,"Danny","Kyle","Sakamaki","Bot","North America",4
+20,"Vulcan","Philippe","Laflamme","Support","North America",4
+21,"Hanabi","Chia-Hsiang","Su","Top","Pacific",5
+22,"Azhi","Shang-Chih","Huang","Top","Pacific",5
+23,"Juhan","Ju-han","Lee","Jungle","Korea",5
+24,"Bay","Jun-byeong","Park","Mid","Korea",5
+25,"Unified","Chun-Kit","Wong","Bot","Pacific",5
+26,"Kaiwing","Kai-Wing","Ling","Support","Pacific",5
+27,"Hasmed","Huy","Lam Huynh Gia","Top","Vietnam",6
+28,"BeanJ","Chinh","Tran Van","Jungle","Vietnam",6
+29,"Froggy","Hai","Bui Van Minh","Mid","Vietnam",6
+30,"Shogun","Huy","Nguyen Van","Bot","Vietnam",6
+31,"Taki","Tai","Dinh Anh","Support","Vietnam",6
+32,"StarScreen","Soner","Kaya","Top","Turkey",7
+33,"Ferret","Hakan Mert","Cakmak","Jungle","Turkey",7
+34,"Serin","Tolga","Olmez","Mid","Turkey",7
+35,"HolyPhoenix","Anil","Isik","Bot","Turkey",7
+36,"Farfetch","Berk","Badur","Support","Turkey",7
+37,"Lonely","Gyu-joon","Han","Top","Korea",8
+38,"Dimitry","Juan","Hernandez","Jungle","Latin America",8
+39,"Aloned","Tomas","Diaz","Mid","Latin America",8
+40,"5kid","Jeong-hyeon","Park","Bot","Korea",8
+41,"Straight","Roberto","Guallichico","Support","Latin America",8
+42,"GUIGO","Guilherme","Ruiz","Top","Brazil",9
+43,"Aegis","Gabriel","Lemos","Jungle","Brazil",9
+44,"Grevthar","Daniel","Ferreira","Mid","Brazil",9
+45,"TitaN","Alexandre","Lima","Bot","Brazil",9
+46,"JoJo","Gabriel","Dzelme","Support","Brazil",9
+47,"Evi","Murase","Shunsuke","Top","Japan",10
+48,"Steal","Geon-yeong","Mun","Jungle","Japan",10
+49,"Yaharong","Chan-ju","Lee","Mid","Korea",10
+50,"Yutapon","Sugiura","Yuta","Bot","Japan",10
+51,"Harp","Ji-yoong","Lee","Support","Korea",10
+52,"BioPanther","Brandon","Alexander","Top","Oceania",11
+53,"Kevy","Shane","Allen","Jungle","Oceania",11
+54,"Kisee","Ronald","Vo","Mid","Oceania",11
+55,"Puma","Nathan","Puma","Bot","Oceania",11
+56,"Corporal","Ian","Pearse","Support","Japan",11
