@@ -1,8 +1,16 @@
+CREATE TABLE `teams` (
+  `teamID` int unsigned NOT NULL AUTO_INCREMENT,
+  `TeamName` varchar(100) NOT NULL,
+  `TeamAbbr` varchar(5) NOT NULL,
+  `league` varchar(20) NOT NULL,
+  PRIMARY KEY (`teamID`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
 CREATE TABLE `matches` (
   `matchDate` date NOT NULL,
   `matchlength` time NOT NULL,
   `matchID` int unsigned NOT NULL AUTO_INCREMENT,
-  `bluesideWin` tinyint(1) NOT NULL,
+  `bluesideWin` char(1) NOT NULL,
   `bluesideID` int unsigned NOT NULL,
   `redsideID` int unsigned NOT NULL,
   PRIMARY KEY (`matchID`),
@@ -44,13 +52,3 @@ CREATE TABLE `playerstat` (
   CONSTRAINT `fk_playerID` FOREIGN KEY (`playerID`) REFERENCES `players` (`playerID`) ON DELETE CASCADE ON UPDATE CASCADE,
   CONSTRAINT `fk_playersID` FOREIGN KEY (`teamID`) REFERENCES `teams` (`teamID`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
-
-CREATE TABLE `teams` (
-  `teamID` int unsigned NOT NULL AUTO_INCREMENT,
-  `TeamName` varchar(100) NOT NULL,
-  `TeamAbbr` varchar(5) NOT NULL,
-  `league` varchar(20) NOT NULL,
-  PRIMARY KEY (`teamID`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
-
-
