@@ -1,3 +1,4 @@
+#Can't divide by so the IF is to replace the zero with one.
 SELECT p.nickname, FORMAT((ps.kills+ps.assists)/IF(ps.deaths=0,1,ps.deaths),2) AS KDA,
 ps.kills AS Kills, ps.deaths AS Deaths, ps.assists AS Assists, ps.cs AS CS, (SELECT Teamabbr FROM teams WHERE teamID = p.teamID) AS team,
 CASE WHEN p.teamID = m.bluesideID AND bluesideWin = 'Y' THEN 'Y'
