@@ -21,3 +21,5 @@ The database has all the matches played, players in each team, and the stats of 
 Use the create.sql file to create all the tables on a database and use the insert.csv files to insert all the data. You can also use prewrote queries in the query file and modify them to get results you want. Use the cheatsheet below to make the changes you want.  
 
 ![cheatsheet](https://github.com/gmod916/lol-mysql-database/blob/main/cheatsheet.png)
+
+Note: teamID, bluesideID, and redsideID use the same IDs.
