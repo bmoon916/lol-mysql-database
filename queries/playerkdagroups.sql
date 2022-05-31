@@ -10,5 +10,5 @@ WHERE matchID IN (
 	#change matchdate for different stages of the tournament.
             )
 GROUP BY p.nickname
-ORDER BY KDA DESC
-LIMIT 5;
+ORDER BY KDA DESC;
+
