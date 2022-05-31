@@ -6,6 +6,7 @@ League of legends(LOL) is a video game, which pin two groups of five people with
 ![summonersrift](https://github.com/gmod916/lol-mysql-database/blob/main/summonersrift.jpg)
 
 
+
 What is MSI?
 The Mid-Season Invitational is an international annual League of Legends tournament hosted by the creator of LOL since 2015. The tournament follows a three stage tournament with group, rumble, and knockout stages.
 
