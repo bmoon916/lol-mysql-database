@@ -11,6 +11,7 @@ LEFT JOIN players AS p
 ON ps.playerID = p.playerID
 LEFT JOIN matches AS m
 ON ps.matchID = m.matchID
+#change the matchID to get different match results.
 WHERE m.matchID = 4
 GROUP BY p.nickname
 #top team on query results is blue side
