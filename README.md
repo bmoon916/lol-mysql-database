@@ -2,12 +2,15 @@
 LOL MSI 2022 MySQL database 
 
 What is LOL?
-League of legends(LOL) is a video game, which pin two groups of five people against each other in an arena. The game doesn't end until one team destroys the others Nexus. To have a better understanding of the game visit: https://www.leagueoflegends.com/en-us/how-to-play/ 
+League of legends(LOL) is a video game, which pin two groups of five people with their own roles against each other in an arena. The map of the game has three lanes that go through the map, and is divided into two territories.  The game doesn't end until one team destroys the others Nexus. To have a better understanding of the game visit: https://www.leagueoflegends.com/en-us/how-to-play/ LOL as an esport event is huge with this year's event reaching 2 million concurrent viewers. 
+![image](https://user-images.githubusercontent.com/22355873/171213320-b44772d0-df3c-4fbf-acc4-9e791f4d8023.png)
+
 
 What is MSI?
-The Mid-Season Invitational is an annual League of Legends tournament hosted by the creator of LOL since 2015.
+The Mid-Season Invitational is an international annual League of Legends tournament hosted by the creator of LOL since 2015. The tournament follows a three stage tournament with group, rumble, and knockout stages.
 
 Why create this project?
 I wanted to create something with the new knowledge I'm gaining from studying. I thought I would make a database about LOL since I enjoy watching esports. While this is a simple project, I wish to keep on learning to more complex projects in the future. I wish to dive into other skill sets to become a data engineer. 
 
-
+What does the database comprise of?
+The database has all the matches played, players in each team, and the stats of each player for every match. Using this data, I can look at the top performers, make comparsions  
