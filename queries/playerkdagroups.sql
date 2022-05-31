@@ -1,3 +1,4 @@
+#all players KDA for group stage 
 SELECT p.nickname, FORMAT((SUM(ps.kills)+SUM(ps.assists))/SUM(ps.deaths),2) AS KDA
 FROM playerstat AS ps
 LEFT JOIN players AS p
@@ -9,7 +10,7 @@ WHERE
         FROM
 			matches
         WHERE 
-			matchdate < '2022-05-20'
+			matchdate <= '2022-05-15'
             )
 GROUP BY p.nickname
 ORDER BY KDA DESC
