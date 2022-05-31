@@ -9,7 +9,7 @@ WHERE
 			matchID
         FROM
 			matches
-        WHERE 
+        WHERE #change matchdate for different stages of the tournament.
 			matchdate <= '2022-05-15'
             )
 GROUP BY p.nickname
