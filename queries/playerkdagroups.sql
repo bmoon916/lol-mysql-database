@@ -5,12 +5,10 @@ LEFT JOIN players AS p
 ON ps.playerID = p.playerID
 WHERE
 	matchID IN (
-		SELECT
-			matchID
-        FROM
-			matches
-        WHERE #change matchdate for different stages of the tournament.
-			matchdate <= '2022-05-15'
+		SELECT matchID
+        FROM matches
+        WHERE matchdate <= '2022-05-15'
+	#change matchdate for different stages of the tournament.
             )
 GROUP BY p.nickname
 ORDER BY KDA DESC
