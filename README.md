@@ -17,4 +17,6 @@ I wanted to create something with the new knowledge I'm gaining from studying. I
 What does the database comprise of?
 The database has all the matches played, players in each team, and the stats of each player for every match. In mysql, they are represented as tables called teams, players, playerstat, and matches. maniplating this data, I can look at the top performers, make comparsions between each players, and look at weaknesses of each player using analytics. I can also just pull general information as the team's winrate, player names, and residency of each player. 
 
+Use this cheatsheet for a easier time to through the navigate.
+
 ![cheatsheet](https://github.com/gmod916/lol-mysql-database/blob/main/cheatsheet.png)
