@@ -3,7 +3,7 @@ LOL MSI 2022 MySQL database
 
 What is LOL?
 League of legends(LOL) is a video game, which pin two groups of five people with their own roles against each other in an arena. The map of the game has three lanes that go through the map, and is divided into two territories.  The game doesn't end until one team destroys the others Nexus. To have a better understanding of the game visit: https://www.leagueoflegends.com/en-us/how-to-play/ LOL as an esport event is huge with this year's event reaching 2 million concurrent viewers. 
-
+![summonersrift](https://github.com/gmod916/lol-mysql-database/blob/main/summonersrift.jpg)
 
 
 What is MSI?
