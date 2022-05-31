@@ -23,4 +23,5 @@ Use the create.sql file to create all the tables on a database and use the inser
 ![cheatsheet](https://github.com/gmod916/lol-mysql-database/blob/main/cheatsheet.png)
 
 Note: teamID, bluesideID, and redsideID use the same IDs.
+
 KDA stands for Kill Death Assists and is also a formula of Kill+Assist/Death. If there is 0 death just replace it with a 1.
