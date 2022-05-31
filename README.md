@@ -15,4 +15,4 @@ Why create this project?
 I wanted to create something with the new knowledge I'm gaining from studying. I thought I would make a database about LOL since I enjoy watching esports. While this is a simple project, I wish to keep on learning to more complex projects in the future. I wish to dive into other skill sets to become a data engineer. 
 
 What does the database comprise of?
-The database has all the matches played, players in each team, and the stats of each player for every match. Using this data, I can look at the top performers, make comparsions  
+The database has all the matches played, players in each team, and the stats of each player for every match. In mysql, they are represented as tables called teams, players, playerstat, and matches. maniplating this data, I can look at the top performers, make comparsions between each players, and look at weaknesses of each player using analytics. I can also just pull general information as the team's winrate, player names, and residency of each player. 
