@@ -9,6 +9,6 @@ WHEN t.teamid = m.redsideID AND m.bluesidewin = 'N' THEN 1 ELSE 0 END)/COUNT(m.b
 FROM matches m
 INNER JOIN teams t
 ON m.bluesideID = t.teamid OR m.redsideID = t.teamid
-#WHERE m.matchdate = 
+#WHERE m.matchdate <= 
 GROUP BY t.teamid
 ORDER BY wins DESC;
